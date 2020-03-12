@@ -1,0 +1,1 @@
+<a href="{{ $UpdateRoute }}" class="btn btn-outline-success btn-sm" role="button"> <div class="icon"><i class="icon-user"></i></div></a>
